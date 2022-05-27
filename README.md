@@ -1,7 +1,7 @@
 ### Hi 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,6 +16,6 @@ GitIgnore file           2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/05/2022 17:17:50 UTC
+ Last Updated on 27/05/2022 15:09:54 UTC
 <!--END_SECTION:waka-->
 
