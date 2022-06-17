@@ -1,7 +1,7 @@
 ### Hi 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,6 +16,6 @@ TypeScript               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/06/2022 15:08:54 UTC
+ Last Updated on 17/06/2022 15:09:01 UTC
 <!--END_SECTION:waka-->
 
